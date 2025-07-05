@@ -102,7 +102,7 @@ The live counter uses Supabase's real-time presence feature to track users:
 
 ## Technologies Used
 
-- [Next.js 14](https://nextjs.org/) - React framework
+- [Next.js 15](https://nextjs.org/) - React framework
 - [Supabase](https://supabase.com/) - Backend and real-time features
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
